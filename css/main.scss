@@ -38,14 +38,14 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
-a {
+a, a:active {
     color: #E40CE8;
 
-    :active, :hover {
-        color: #E40CE8;
+    &:hover {
+        text-decoration: underline;
     }
 
-    :visited {
+    &:visited {
         color: #B80DFF;
     }
 }
