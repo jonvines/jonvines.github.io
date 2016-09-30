@@ -6,6 +6,9 @@ permalink: /about/
 
 A highly motivated software engineer with a keen focus on the practices of Continuous Delivery. Leading teams through continual improvement and experimentation to deliver products to our customers. Excited by the challenges of CI, automation and DevOps practices and their application to ongoing software delivery.
 
+___
+
+
 # Lead Developer #
 [Vodafone](http://www.vodafone.co.uk/)
 
@@ -19,6 +22,7 @@ Leading internal agile teams delivering multiple projects across the organisatio
 
 ___
 
+
 # Senior Developer #
 [Vodafone](http://www.vodafone.co.uk/)
 
@@ -27,6 +31,7 @@ December 2013 - October 2014
 Key member of an internal agile team delivering a front end SPA with a distributed Service Oriented Architecture back-end to facilitate Vodafones offering to indirect partners. 
 
 ___
+
 
 # Web Developer #
 [Turley](http://www.turley.co.uk/)
