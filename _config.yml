@@ -25,3 +25,7 @@ github_username:  jonvines
 # Build settings
 markdown: kramdown
 theme: minima
+highlighter: rouge
+
+# Repository
+repository: jonvines/jonvines.github.io
