@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A highly motivated software engineer with a keen focus on the practices of Continuous Delivery. Leading teams through continual improvement and experimentation to deliver products to our customers. Excited by the challenges of CI, automation and DevOps practices and their application to ongoing software delivery.
+A highly motivated software engineer with a keen focus on the practices of Continuous Delivery. Leading teams through continual improvement and experimentation to deliver products to  customers. Excited by the challenges of CI, automation and DevOps practices and their application to ongoing software delivery.
 
 ___
 
