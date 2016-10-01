@@ -3,7 +3,7 @@ layout: post
 title:  "Understanding the Pipeline"
 date:   2016-10-01 15:30:00 +0100
 categories: deployment pipeline
-excerpt: A look at the deployment pipeline and the advantages it can bring
+excerpt: A look at the deployment pipeline and the advantages it can bring.
 published: true
 ---
 
