@@ -35,7 +35,7 @@ We've spent the time to automate our deployments, therefore, they've been practi
 
 ### Reduce errors
 
-The aim here is to fail as early as possible and catch any issues as early in the pipeline as possible. Increase feedback loops ([See the third way of the three ways](http://itrevolution.com/the-three-ways-principles-underpinning-devops/)) and visualise the path to production.
+The aim here is to fail as early as possible and catch any issues as early in the pipeline as possible. Increase feedback loops ([See the three ways](http://itrevolution.com/the-three-ways-principles-underpinning-devops/)) and visualise the path to production.
 
 The ultimate aim is to make our deployments *rapid, repeatable and reliable*. Making our deployments to production a non-event.
 
