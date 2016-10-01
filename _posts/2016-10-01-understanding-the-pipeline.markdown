@@ -15,7 +15,7 @@ Deployment day tends to be pretty scary. There can be lots of new features, lots
 
 This is how deployment days tend to feel - painful. This is where the start of our journey to the deployment pipeline began; there must be a better way.
 
-After reading [Continuous Delivery](https://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley and immediately saw potential benefits to delivering software in this way. Our overriding feeling reading the three anti-patterns of deployment was "I'm pretty sure we've done each one of those things". As an introduction, or reminder, these are:
+After reading [Continuous Delivery](https://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley, we immediately saw potential benefits to delivering software in this way. Our overriding feeling reading the three anti-patterns of deployment was "I'm pretty sure we've done each one of those things". As an introduction, or reminder, these are:
 
 * Deploying software manually
 * Deploying to a production like environment only after development is completed
@@ -43,7 +43,7 @@ The ultimate aim is to make our deployments *rapid, repeatable and reliable*. Ma
 
 This journey started over 18 months ago, and we're still learning but we have come a long way. Our first use in anger came with a project that had an unmovable deadline due to market demands. This approach to using the pipeline along with Kanban gave us the following benefits:
 
-* We could go from developer check-in, to production ready in less than an hours
+* We could go from developer check-in, to production ready in less than an hour
 * We could react to changing business requirements and work on the most important features
 * We could release new features, into production environments less than a day before going 'live'
 * We delivered all of the original requirements and a lot more generated through frequent showcasing with the business stakeholders
